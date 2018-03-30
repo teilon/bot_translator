@@ -1,0 +1,2 @@
+
+yoldyz_token = '578689180:AAHOg6itFICVOOPoDG-cZ4JNWfImBZu_IRw'
