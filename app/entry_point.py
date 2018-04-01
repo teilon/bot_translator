@@ -2,12 +2,11 @@ from flask import Flask
 from flask import request
 from flask import jsonify
 import requests
-import json
 import re
 
 from flask_sslify import SSLify
 
-from misc import yoldyz_token
+from misc import yoldyz_token, write_json
 
 app = Flask(__name__)
 sslify = SSLify(app)
@@ -18,11 +17,6 @@ def query(method):
         token=yoldyz_token,
         method=method
     )
-
-
-def write_json(data, filename='answer.json'):
-    with open(filename, 'w') as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
 
 
 def set_message(chat_id, text='hello'):

@@ -1,5 +1,5 @@
 import requests
-from main import write_json
+from misc import write_json
 import re
 
 

@@ -5,9 +5,9 @@ yoldyz
 
 
 
-https://api.telegram.org/bot578689180:AAHOg6itFICVOOPoDG-cZ4JNWfImBZu_IRw/WebhookInfo
+https://api.telegram.org/bot578689180:AAHOg6itFICVOOPoDG-cZ4JNWfImBZu_IRw/getWebhookInfo
 
-https://api.telegram.org/bot578689180:AAHOg6itFICVOOPoDG-cZ4JNWfImBZu_IRw/setWebhook?url=https://1db40f05.ngrok.io
+https://api.telegram.org/bot578689180:AAHOg6itFICVOOPoDG-cZ4JNWfImBZu_IRw/setWebhook?url=https://ae4a576e.ngrok.io
 
 https://api.telegram.org/bot578689180:AAHOg6itFICVOOPoDG-cZ4JNWfImBZu_IRw/deleteWebhook
 
