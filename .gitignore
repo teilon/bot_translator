@@ -1,8 +1,9 @@
 env/
 app/__pycache__/
 
-app/**.json
-app/**.py
+app/*.json
+app/*.py
+app/webhook_conf
 
 !app/translator.py
 !app/translate.py
