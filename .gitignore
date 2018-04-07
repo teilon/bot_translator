@@ -1,2 +1,9 @@
 env/
 app/__pycache__/
+
+app/**.json
+app/**.py
+
+!app/translator.py
+!app/translate.py
+!app/misc.py
