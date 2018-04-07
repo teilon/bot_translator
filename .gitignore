@@ -5,6 +5,6 @@ app/*.json
 app/*.py
 app/webhook_conf
 
-!app/translator.py
+!app/main.py
 !app/translate.py
 !app/misc.py
